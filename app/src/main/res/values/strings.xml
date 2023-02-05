@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My PizzaApp</string>
+    <string name="back">Back</string>
+    <string name="back_to_main">Back to main</string>
+    <string name="pizza">pizza</string>
+    <string name="coffee">coffee</string>
+    <string name="to_chooser_activity">To Chooser Activity</string>
+    <string name="vitl_k">Vitlök</string>
+    <string name="tabasco">Tabasco</string>
+    <string name="peperoni">Peperoni</string>
+    <string name="salami">Salami</string>
+    <string name="ingredienser">INGREDIENSER</string>
+    <string name="my_black_pizza">MY BLACK PIZZA</string>
+    <string name="tillbeh_r">Tillbehör:</string>
+    <string name="Pizza">TODO</string>
+    <string name="PizzaSlice">TODO</string>
+    <string name="annualServiceTitle">annualServiceTitle</string>
+
+    <string-array name="CheckBoxes">
+        <item name="checkBox1">checkBox1</item>
+        <item name="checkBox2">checkBox2</item>
+        <item name="checkBox3">checkBox3</item>
+        <item name="checkBox4">checkBox4</item>
+    </string-array>
+</resources>
